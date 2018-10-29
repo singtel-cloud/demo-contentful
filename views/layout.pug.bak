@@ -77,7 +77,7 @@ html(lang='en')
             .header__lower.layout-centered
               .header__logo
                 a.header__logo-link(href=`/${queryString}`)
-                  img(src='/images/singtel-logo.png' alt=translate('logoAlt', currentLocale.code))
+                  img(src='/images/the-example-app-logo-nodejs.svg' alt=translate('logoAlt', currentLocale.code))
               nav.header__navigation.main-navigation(role='navigation')
                 ul
                   li
